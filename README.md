@@ -1,2 +1,5 @@
 # studious-spoon
-react apps
+
+### Reactjs App with 
+
+- TypeScript and Ant design
